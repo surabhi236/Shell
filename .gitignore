@@ -1,0 +1,7 @@
+*~
+TAGS
+cscope.*
+.vscode/
+bin/
+build/
+deps/
